@@ -1,0 +1,44 @@
+.jumbotron h1{
+	color:#5cb85c;
+	text-align: center;
+	background-color: white;
+	padding:12px;
+}
+
+.buttonContainer{
+	max-width: 100%
+}
+
+#buttonsDiv{
+  width:100%;
+  margin-left:15px;
+}
+
+.searchBox{
+	border: solid 3px #5cb85c;
+  width:auto;
+  float: right;
+  margin: 20px 60px;
+	padding:5px;
+
+}
+
+#userInputForm{
+	margin:4x;
+}
+
+#userInput:hover{
+	border: solid 2px #5cb85c;
+}
+
+#submitUserData{
+	font-size:1.2em;
+}
+
+.animalButtons{
+	margin:4px;
+}
+
+.animalIMG{
+	max-width: 100%
+}
